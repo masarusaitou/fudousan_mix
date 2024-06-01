@@ -1,0 +1,7 @@
+gspread
+gspread_dataframe
+python-dotenv
+geopy
+streamlit
+streamlit-folium
+folium
